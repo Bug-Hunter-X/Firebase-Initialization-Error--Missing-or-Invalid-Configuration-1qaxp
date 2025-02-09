@@ -1,0 +1,3 @@
+# Firebase Initialization Error
+
+This repository demonstrates a common error encountered when initializing the Firebase SDK: an incomplete or incorrect configuration object.  The `firebaseBug.js` file shows the problematic code, while `firebaseSolution.js` provides a corrected version.  Ensure your Firebase configuration object includes all necessary parameters and that your database rules allow the necessary access.  Refer to the Firebase documentation for more details.
